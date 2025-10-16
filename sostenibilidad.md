@@ -3,3 +3,4 @@ La sostenibilidad es la capacidad de satisfacer las necesidades de las generacio
 - Ambiental: Preservación del medio ambiente y los recursos naturales.
 - Social: Promoción de la equidad, justicia social y bienestar comunitario.
 - Económica: Desarrollo económico viable y responsable.
+> "La sostenibilidad no es solo una meta, sino un camino que debe seguirse con responsabilidad y compromiso." - ONU
