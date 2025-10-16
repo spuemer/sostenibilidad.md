@@ -1,3 +1,10 @@
+# Trabajo elaborado por el alumno
+
+En este apartado se incluyen los documentos desarrollados durante la práctica de sostenibilidad:
+
+- [sostenibilidad.md](./sostenibilidad.md)
+- [sostenibilidad.pdf](./sostenibilidad.pdf)
+- 
 # Introducción a la Sostenibilidad
 La sostenibilidad es la capacidad de satisfacer las necesidades de las generaciones presentes sin comprometer la capacidad de las futuras generaciones para satisfacer las suyas.
 - Ambiental: Preservación del medio ambiente y los recursos naturales.
